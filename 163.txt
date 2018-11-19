@@ -1,1 +1,1 @@
-http://www.163.com
+<web>http://www.163.com</web>
